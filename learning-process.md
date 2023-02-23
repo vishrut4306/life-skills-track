@@ -73,6 +73,8 @@ There are steps it can be done intelligently.
 
 The major barrier to learning any new skill is not intellectual, it is emotional, and we feel stupid. Put 20 hours into anything you want to learn and that’s it.
 
+<br>
+
 ### Q6 What are some of the steps that you can while approaching a new topic?
 
 Steps I will take while approaching a new topic:
