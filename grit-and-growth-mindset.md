@@ -2,8 +2,6 @@
 
 ## 1. Grit
 
-<hr>
-
 ### Question 1:
 
 Paraphrase (summarize) the video in a few lines. Use your own words.
@@ -31,8 +29,6 @@ My Key takeaways are given below:
 <br>
 
 ## 2. Introduction to Growth Mindset
-
-<hr>
 
 ### Question 3:
 
@@ -74,8 +70,6 @@ My key takeaways are:
 
 ## 3. Understanding Internal Locus of Control
 
-<hr>
-
 ### Question 5:
 
 What is the Internal Locus of Control? What is the key point in the video?
@@ -95,8 +89,6 @@ So the people who think they are talented or gifted have an external locus of co
 <br>
 
 ## 4. How to build a Growth Mindset
-
-<hr>
 
 ### Question 6:
 
@@ -132,8 +124,6 @@ My key takeaways are:
 <br>
 
 ## 5. Mindset - A MountBlue Warrior Reference Manual
-
-<hr>
 
 ### Question 8:
 
