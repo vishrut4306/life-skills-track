@@ -12,8 +12,6 @@ The speaker in the start of video comes to the point that success in acquiring a
 
 Grit is passion and perseverance for very long-term goals. Grit is living life like it's a marathon and not a sprint. It is the practice of being consistent while keeping in line with future goals. The speaker then dwells on the question of how one becomes gritty. One becomes gritty by having a growth mindset and learning to accept failures as a part of the process.
 
-<br>
-
 ### Question 2:
 
 What are your key takeaways from the video to take action on?
@@ -25,8 +23,6 @@ My Key takeaways are given below:
 - “Talent beats handwork when talent doesn’t work hard”, I understand that talent is one of the ingredients of success and not the only one. Being passionate and perseverant for one’s long-term goals that matter the most.
 - By adopting a growth mindset, I can be motivated to incorporate solid work ethics and be more gritty in general.
 - Believing that failure is not a permanent condition and that if I keep trying at a problem, I might come up with a solution.
-
-<br>
 
 ## 2. Introduction to Growth Mindset
 
@@ -52,8 +48,6 @@ This kind of mindset has little room for growth. Listed below are the characteri
 - Embrace and persevere
 - Use feedback to learn
 
-<br>
-
 ### Question 4:
 
 What are your key takeaways from the video to take action on?
@@ -65,8 +59,6 @@ My key takeaways are:
 - By understanding the characteristics of both mindsets namely growth and fixed, I think I am more aligned with the growth mindset and in parts of life where I show a fixed mindset, I would be more than willing to adopt a growth mindset.
 - A growth mindset begins with a belief in one’s ability to develop new skills through continuous hard work.
 - I would take feedback from my seniors and mentors as a challenge to get better. Feedback from others is an opportunity to rectify mistakes and be better than before.
-
-<br>
 
 ## 3. Understanding Internal Locus of Control
 
@@ -86,8 +78,6 @@ So the people who think they are talented or gifted have an external locus of co
 - I will not state not being born with gifts/talents is an excuse for my underperformance if any. Rather put in the extra hours, which is entirely in my control and therefore creates an internal locus of control.
 - If any time in life, I feel a lack of motivation, I would believe in the internal focus of control that I possess and seek results by putting in an effort.
 
-<br>
-
 ## 4. How to build a Growth Mindset
 
 ### Question 6:
@@ -105,8 +95,6 @@ Thinking that “we are who we are and things are how they are and they will be 
 
 - Get adapted to highs and lows, good times and hardships, and honor the struggle as part of a long-term growth mindset that eventually leads to growth as an individual.
 
-<br>
-
 ### Question 7:
 
 What are your key takeaways from the video to take action on?
@@ -120,8 +108,6 @@ My key takeaways are:
 - Be the architect of the life that you want. This starts with me designing my way to my dream and the skills that I want to learn by gathering resources. The world is changing every second, and as a software engineer, I am in a more difficult position if I refuse to change with time. To make a great career in software engineering, I will have to be susceptible to change and be ready to adapt to any new and challenging situation.
 
 - When in difficult times, keep going, honor struggle because when I get knocked down, it is a new challenge to deal with, and with this ‘calm amidst the chaos’ attitude I can figure out anything.
-
-<br>
 
 ## 5. Mindset - A MountBlue Warrior Reference Manual
 
@@ -142,18 +128,12 @@ Points that i want to take action on are listed below:
 **My resolution on this point:**
 There was a time when I only used to be concerned with making a piece of code work, now I will be focusing on making it readable, modular, and efficient alongside making it work. A code that is not readable is as good as ‘no code’ written because then it can’t be made used by anyone else than its author.
 
-<br>
-
 - I will understand the users very well. I will serve them and society by writing rock-solid excellent software.
 
 **My resolution on this point:**
 As a software engineer, I understand that my end goal is to solve user problems and create a smooth experience for users. As a software engineer, I can earn a respectable living but at the same time, I can achieve a higher purpose by solving the problems of society by writing lines of code. I intend to do this with my full dedication.
 
-<br>
-
 - I will be focused on mastery till I can do things half asleep. If someone wakes me up at 3 AM in the night, I will calmly solve the problem like James Bond and go to sleep.
 
 **My resolution on this point:**
 I try to make sure that whatever work I do I do it at the highest level possible. One way to ensure this is by gaining mastery of whatever field that I work in, James Bond is a good example of efficiency and “calm amidst the chaos”. I try to incorporate his attitude into my life .
-
-<hr>
