@@ -82,6 +82,8 @@ So the people who think they are talented or gifted have an external locus of co
 
 ### Question 6:
 
+Paraphrase (summarize) the video in a few lines in your own words.
+
 ### Answer 6:
 
 Thinking that “we are who we are and things are how they are and they will be the way they are” is the worst thing that someone can think of themselves. This creates a fixed mindset disallowing any room for growth.
