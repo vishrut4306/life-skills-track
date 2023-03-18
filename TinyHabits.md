@@ -106,7 +106,7 @@ Write about the book's perspective on making a bad habit more difficult.
 
 - The hack to make the bad habit more difficult is to make them less appealing as generally bad habits are easy and require less effort.
 - To make a bad habit more difficult is to add friction, increase the effort required or change the environment.
-- Suppose you want to get away with the habit of using lat night social media, just put the phone in a different room these days come phones come with zen mode and in that time duration, most of the phone functions are disallowed.
+- Suppose you want to get away with the habit of using late-night social media, just put the phone in a different room these days come phones come with zen mode and in that time duration, most of the phone functions are disallowed.
 
 ## 5. Reflection:
 
@@ -131,4 +131,4 @@ I would like to give up on my habit of eating junk food:
 
 - Whenever I am feeling hungry, I could opt for more healthy food options.
 - While passing by the food market, on my way back home if I have the urge to eat junk food, one thing I can do is to remind myself of the harms of it and mold myself into the identity of a healthy person.
-- Lastly, the way our mind works is that whenever it feels low, it tries to get an immediate sense of satisfaction by indulging in a pleasure state, thereby eating junk food, which is good in taste but bad for health. So dealing with low or negative emotions will fix the problem at its origin.
+- Lastly, the way our mind works is that whenever it feels low, it tries to get an immediate sense of satisfaction by indulging in a pleasurable state, thereby eating junk food, which is good in taste but bad for health. So dealing with low or negative emotions will fix the problem at its origin.
