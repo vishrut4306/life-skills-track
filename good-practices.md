@@ -8,7 +8,7 @@ What is your one major takeaway from each one of the 6 sections? So 6 points in 
 
 ### Answer 1:
 
-- making notes is essential, as it can be viewed later as a reference, and try to clear doubts in the meeting itself, as it is maybe difficult to get everyone online again.
+- making notes is essential, as it can be viewed later as a reference, and try to clear doubts in the meeting itself, as it maybe difficult to get everyone online again.
 - if for any reason, I will be unavailable during work hours then it is my responsibility to convey the situation to relevant team members.
 - asking a question is not enough to get the answer, asking it in the correct way is also important. In the correct way meaning it should cover the details of what has been tried already and explain the problem with the help of diagrams, and screenshots.
 - getting to know your company, and teammates is a very essential aspect of work as well.
